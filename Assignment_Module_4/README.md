@@ -2,7 +2,7 @@ Hello there,
 
 In this assignment I make multi-step-registration,
 
-[here's my deploy](https://main-grand-crepe-d1b5ff.netlify.app/)
+[my deploy](https://main--grand-crepe-d1b5ff.netlify.app/)
 
 # React + TypeScript + Vite
 
